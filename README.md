@@ -30,5 +30,7 @@ Simply copy the Wombat.xml into ~/Library/Preferences/WebIde40 directory on Mac 
 Activation
 ----------
 
-Select "Wombat" from "Scheme Name" drop down located in Preferences > IDE Settings > Editor > Colors & Fonts on Mac or
-Settings > IDE Settings > Editor > Colors & Fonts on Windows and clicking the "Apply" button on the same window will activate the scheme for you to use.
+* Mac: Select "Wombat" from "Scheme Name" drop down located in Preferences > IDE Settings > Editor > Colors & Fonts
+* Windows: Settings > IDE Settings > Editor > Colors & Fonts
+
+Then click the "Apply" button on the same window to activate the scheme for you to use.
