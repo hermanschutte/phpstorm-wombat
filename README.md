@@ -5,6 +5,16 @@ Wombat is a Vim color scheme created by Lars H. Nielsen in 2007: http://dengmao.
 
 This is the PhpStorm and WebStorm adaptation of the scheme.
 
+
+Supported Languages
+-------------------
+
+* Javascript
+* CSS
+* HTML
+* PHP
+
+
 Download
 --------
 
